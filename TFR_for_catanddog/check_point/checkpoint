@@ -1,6 +1,0 @@
-model_checkpoint_path: "C:/backup/TFR_for_catanddog/check_point\\model.ckpt-33631"
-all_model_checkpoint_paths: "C:/backup/TFR_for_catanddog/check_point\\model.ckpt-33591"
-all_model_checkpoint_paths: "C:/backup/TFR_for_catanddog/check_point\\model.ckpt-33601"
-all_model_checkpoint_paths: "C:/backup/TFR_for_catanddog/check_point\\model.ckpt-33611"
-all_model_checkpoint_paths: "C:/backup/TFR_for_catanddog/check_point\\model.ckpt-33621"
-all_model_checkpoint_paths: "C:/backup/TFR_for_catanddog/check_point\\model.ckpt-33631"
